@@ -1,8 +1,8 @@
 ---
-title: A test of a few things
-date: 2024-02-18T17:44:03.000Z
+title: v1.1.0 Brings Draft Posts
+date: 2020-09-20T17:44:03.000Z
 excerpt: Not yet native in 11ty, creating draft posts is easy.
-author: tris
+author: shane-robinson
 draft: false
 seo:
   title:
