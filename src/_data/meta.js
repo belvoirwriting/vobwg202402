@@ -6,7 +6,7 @@ module.exports = {
 	siteImage: '/assets/images/site/default.png',
 	lang: 'en',
 	locale: 'en_uk',
-	authorName: 'Tris',
+	authorName: 'tris',
 	address: {
 		street: 'Parish Room, The Old School, Grantham Road',
 		city: 'Bottesford',
