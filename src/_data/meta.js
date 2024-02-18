@@ -1,8 +1,8 @@
 module.exports = {
 	siteURL: process.env.URL || 'http://localhost:8080',
-	siteName: "Vale of Belvoir Writing Group",
+	siteName: "Shane Robinson's 11ty | TailwindCSS | Alpine.js Template",
 	siteDescription:
-		'Helping writers find their voice since 2018',
+		'A highly configurable 11ty template to quickly spin up a fully functional website with TailwindCSS and Alpine.js baked in.',
 	siteImage: '/assets/images/site/default.png',
 	lang: 'en',
 	locale: 'en_uk',
