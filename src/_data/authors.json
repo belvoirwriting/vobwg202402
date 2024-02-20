@@ -60,6 +60,67 @@
 			}
 		]
 	},
+{
+		"slug": "tris",
+		"name": "Tris",
+		"image": "/assets/images/authors/tris.jpg",
+		"bio": "I like to writem",
+		"companyWebsites": [
+			{
+				"label": "",
+				"url": "",
+				"email": "words@belvoirwriting.co.uk"
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "ShaneRobinson.com",
+				"url": "https://www.shanerobinson.com"
+			},
+			{
+				"label": "Linkist: Control your own links",
+				"url": "https://linkist.netlify.app/"
+			},
+			{
+				"label": "#100DaysOfCode project minisite",
+				"url": "https://sr-100daysofcode.netlify.app/"
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": "https://github.com/shanerobinson"
+			},
+			{
+				"label": "instagram",
+				"url": "https://instagram.com/shanerobinson"
+			},
+			{
+				"label": "linkedin",
+				"url": "https://linkedin.com/in/rshanerobinson"
+			},
+			{
+				"label": "piedpiper",
+				"url": "https://piedpiper.com/shanerobinson"
+			},
+			{
+				"label": "pinterest",
+				"url": "https://pinterest.com/shanerobinson"
+			},
+			{
+				"label": "twitter",
+				"url": "https://twitter.com/shanerobinson"
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},
 	{
 		"slug": "roxanne-darling",
 		"name": "Roxanne Darling",
