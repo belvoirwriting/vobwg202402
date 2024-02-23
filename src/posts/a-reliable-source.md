@@ -11,7 +11,7 @@ seo:
 images: # relative to /src/assets/images/
   feature:
   thumb: CL_Society_49_Whispering_francisco_osorio.jpg
-  slide:
+  slide: CL_Society_49_Whispering_francisco_osorio.jpg
 tags:
   - themes
   - meetings
