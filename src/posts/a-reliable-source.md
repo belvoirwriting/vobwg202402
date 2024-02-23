@@ -19,8 +19,6 @@ tags:
 
 _Celebs mixed up in the fake pretending scandal have blasted critics for ‘being critical’, a reliable source tells this paper. Boffins say we can expect more of this until at least January._
 
-![whispering](/src/assets/images/CL_Society_49_Whispering_francisco_osorio.jpg "whispering into an ear")
-
 Join us for our next meeting on 12 January 2021 at 8pm where our optional writing theme is ‘a reliable source’. Feel free to use or discard the theme in whatever way works for you.
 
 Is your reliable source a close friend of the minister or a neighbour with binoculars? Or is it a mine that promises gold and other precious metals? And just how reliable is your source? Can you trust it or them?
