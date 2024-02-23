@@ -9,7 +9,7 @@ seo:
   description: January 2021 meeting theme
   image: CL_Society_49_Whispering_francisco_osorio.jpg
 images: # relative to /src/assets/images/
-  feature:
+  feature: CL_Society_49_Whispering_francisco_osorio.jpg
   thumb: CL_Society_49_Whispering_francisco_osorio.jpg
   slide: CL_Society_49_Whispering_francisco_osorio.jpg
 tags:
