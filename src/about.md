@@ -12,36 +12,39 @@ seo:
   image:
 ---
 
-{% wrap "bg-red-100 mt-4 border border-red-300 rounded-lg underline" %}
+<p><i>Email words@belvoirwriting.co.uk to join our next meeting or to find out more</i>.</p>
+  
+<p>We are a group of writers meeting in Bottesford every second Tuesday of the month at 8pm in the Old School next to the library. </p>
+</p>
+<p>Our aims are to help writers find their own voice, to feel confident and encouraged with their writing, and to provide supportive space to try out new ideas. We also want to keep this free for everyone, with no membership or attendance fees and to provide a creative resource and outlet for the community.</p>
 
-Text courtesy [Fillerama.io](http://fillerama.io/)
+## How it all began
 
-{% endwrap %}
+It all started in 2018 with the vicar very kindly letting us set up and host the Vale of Belvoir Writing Group in St Mary's Church, Bottesford. There have been monthly themes and ideas to write to, the odd flash writing exercise every now and again, as well as visits from published authors and academics.
 
-## I hear the jury's still out on science.
+## You're on mute
 
-Guy's a pro. It's a hug, Michael. I'm hugging you. Michael! I care deeply for nature. That's what it said on 'Ask Jeeves.' Across from where?
+Things took a turn in 2020 and we found ourselves unable to meet in the church or anywhere else. Technology helped and hindered in equal measure and we were able to see each other via Google Meet for a couple of years while this whole covid thing sorted itself out, but it relied on everything working for everyone at the same time. 
 
-No, I did not kill Kitty. However, I am going to oblige and answer the nice officer's questions because I am an honest man with no secrets to hide. **Not tricks, Michael, illusions.** _Really?_ Did nothing cancel?
+### Old School 
 
-## There's so many poorly chosen words in that sentence.
+At the end of 2022 we were fortunate to find a new home in the real world. We now meet in the Parish Room, the Old School, Grantham Road, Bottesford. We welcome writers from all over the Vale of Belvoir and beyond. It doesn't matter if you're from Bottesford, Plungar, Redmile, Granby, Muston, Stathern, Eastwell, Grantham, Melton, Nottingham or anywhere else. Most members are from Bottesford and surrounding villages and all contribute to our friendly community of writers.
 
-No! I was ashamed to be SEEN with you. I like being with you. That's why you always leave a note! It's called 'taking advantage.' It's what gets you ahead in life. Steve Holt!
+#### Join us at our next meeting
 
-1. Michael!
-2. What's Spanish for "I know you speak English?"
-3. What's Spanish for "I know you speak English?"
+We meet every second Tuesday of the month at 8pm in the Parish Room, The Old School (next to the library) in Bottesford. We have optional themes for each meeting, which you can choose to write about or completely ignore. Some people like to share their works in progress, but there's no obligation to bring or read out any writing. <br>
 
-### No… but I'd like to be asked!
+> ##### Upcoming dates for 2024:
+>
+> - 12 March. ***Optional theme:*** Technical difficulties
+> - 9 April
+> - 14 May
+> - 11 June
+> - 9 July
+> - 13 August
+> - 10 September
+> - 8 October
+> - 12 November
+> - 10 December
 
-I don't understand the question, and I won't respond to it. Oh, you're gonna be in a coma, all right. I don't criticize you! And if you're worried about criticism, sometimes a diet is the best defense.
-
-- No… but I'd like to be asked!
-- Guy's a pro.
-- Well, what do you expect, mother?
-
-That's what it said on 'Ask Jeeves.' I hear the jury's still out on science. It's called 'taking advantage.' It's what gets you ahead in life. Say goodbye to these, because it's the last time! Marry me.
-
-No! I was ashamed to be SEEN with you. I like being with you. Well, what do you expect, mother? But I bought a yearbook ad from you, doesn't that mean anything anymore? Say goodbye to these, because it's the last time!
-
-No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature.
+We meet from 8pm usually to around 9.30pm
