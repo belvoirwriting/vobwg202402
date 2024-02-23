@@ -17,7 +17,7 @@ tags:
   - meetings
 ---
 
-_Celebs mixed up in the fake pretending scandal have blasted critics for ‘being critical’, a reliable source tells this paper. Boffins say we can expect more of this until at least January._
+Celebs mixed up in the fake pretending scandal have blasted critics for ‘being critical’, a reliable source tells this paper. Boffins say we can expect more of this until at least January.
 
 ![alt](/src/assets/images/CL_Society_49_Whispering_francisco_osorio.jpg "whispering into an ear")
 
