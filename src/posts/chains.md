@@ -1,7 +1,7 @@
 ---
-title: Managing Social Share, Author, and Footer Icons
+title: Chains
 date: 2020-09-02T17:44:03.000Z
-author: shane-robinson
+author: tris
 excerpt: You can choose to display, or not, all the icons.
 draft: 
 seo:
