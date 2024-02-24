@@ -19,7 +19,7 @@ tags:
 
 Our theme for the 12 March 2024 meeting is "technical difficulties". See you at 8pm in the Parish Room, Bottesford. 
 
-![alt text](static/img/technical_difficulties.jpg "A pretend novel - Technical Difficulties")
+![alt text](/static/img/technical_difficulties.jpg "A pretend novel - Technical Difficulties")
 
 **Turn it off and on again**
 
