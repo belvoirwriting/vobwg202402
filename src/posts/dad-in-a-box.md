@@ -7,10 +7,10 @@ draft:
 seo:
   title:
   description:
-  image: Mark_Spruce.jpg
+  image: dad_in_a_box_cover.jpg
 images: # relative to /src/assets/images/
-  feature:
-  thumb: Mark_Spruce.jpg
+  feature: dad_in_a_box_cover.jpg
+  thumb: dad_in_a_box_cover.jpg
   slide:
 tags:
   - kindle
