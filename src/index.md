@@ -1,6 +1,6 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
-title: Vale of Belvoir Writing Group - find your inspiration today
+title: Vale of Belvoir Writing Group - find your inspiration
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
 author: tris # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
@@ -19,7 +19,7 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: home/Bottesford_dawn.jpg # relative to /assets/images/
+    image: home/wall_of_books.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
@@ -43,9 +43,9 @@ heroSettings:
       - home/9.jpg
 ---
 
-Get in touch today to join our next meeting. Email words@belvoirwriting.co.uk. 
+Get in touch to join our next meeting. Email words@belvoirwriting.co.uk. 
 
-We are a group of writers from all over the Vale of Belvoir and beyond meeting every month in Bottesford.
+We are a group of writers from all over the Vale of Belvoir and beyond. We meet every month in Bottesford. Each meeting has an optional theme that you can use as a writing prompt. You can also bring along whatever you're working on instead.
 
 > ##### Upcoming dates for 2024:
 >
