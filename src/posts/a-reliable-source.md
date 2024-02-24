@@ -9,17 +9,15 @@ seo:
   description: January 2021 meeting theme
   image: CL_Society_49_Whispering_francisco_osorio.jpg
 images: # relative to /src/assets/images/
-  feature:
+  feature: CL_Society_49_Whispering_francisco_osorio.jpg
   thumb: CL_Society_49_Whispering_francisco_osorio.jpg
-  slide:
+  slide: CL_Society_49_Whispering_francisco_osorio.jpg
 tags:
   - themes
   - meetings
 ---
 
 _Celebs mixed up in the fake pretending scandal have blasted critics for ‘being critical’, a reliable source tells this paper. Boffins say we can expect more of this until at least January._
-
-![alt](/src/assets/images/CL_Society_49_Whispering_francisco_osorio.jpg "whispering into an ear")
 
 Join us for our next meeting on 12 January 2021 at 8pm where our optional writing theme is ‘a reliable source’. Feel free to use or discard the theme in whatever way works for you.
 
