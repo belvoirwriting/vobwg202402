@@ -205,7 +205,6 @@ module.exports = function (eleventyConfig) {
 		htmlTemplateEngine: 'njk',
 		markdownTemplateEngine: 'njk',
 	}
-}
 
 // responsive images with 11ty image
 // this overrides the default image renderer
@@ -277,4 +276,5 @@ markdown.renderer.rules.image = function (tokens, idx, options, env, self) {
     return figure(generated, parsed.caption)
   }
   return generated
+}
 }
