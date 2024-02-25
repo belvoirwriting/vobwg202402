@@ -1,28 +1,3 @@
-  const widths = [250, 316, 426, 460, 580, 768]
-  const imgOpts = {
-    widths: widths
-      .concat(widths.map((w) => w * 2)) // generate 2x sizes
-      .filter((v, i, s) => s.indexOf(v) === i), // dedupe
-    formats: ['webp', 'jpeg'], // TODO: add avif when support is good enough
-    urlPath: '/assets/img/',
-    outputDir: './_site/assets/img/'
-  }
-
-  Image(imgSrc, imgOpts)
-
-  const metadata = Image.statsSync(imgSrc, imgOpts)
-
-  const generated = Image.generateHTML(metadata, {
-    sizes: parsed.sizes || '(max-width: 768px) 100vw, 768px',
-    ...htmlOpts
-  })
-
-  if (parsed.caption) {
-    return figure(generated, parsed.caption)
-  }
-  return generated
-}
-
 // const fs = require('fs')
 const pluginRss = require('@11ty/eleventy-plugin-rss')
 const pluginNavigation = require('@11ty/eleventy-navigation')
