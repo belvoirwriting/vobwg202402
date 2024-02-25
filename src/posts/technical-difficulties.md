@@ -7,10 +7,10 @@ draft:
 seo:
   title:
   description:
-  image: technical_difficulties.jpg
+  image: /2024/technical.jpg
 images: # relative to /src/assets/images/
-  feature: technical_difficulties.jpg
-  thumb: technical_difficulties.jpg
+  feature: /2024/technical.jpg
+  thumb: /2024/technical.jpg
   slide:
 tags:
   - meetings
@@ -18,8 +18,6 @@ tags:
 ---
 
 Our theme for the 12 March 2024 meeting is "technical difficulties". See you at 8pm in the Parish Room, Bottesford.
-
-![alt text](/static/img/technical_difficulties.jpg "A pretend novel - Technical Difficulties")
 
 **Turn it off and on again**
 
