@@ -19,7 +19,7 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: home/Bottesford_dawn.jpg # relative to /assets/images/
+    image: suzyhazelwood.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
@@ -59,3 +59,11 @@ We are a group of writers from all over the Vale of Belvoir and beyond. We meet 
 > - 8 October
 > - 12 November
 > - 10 December
+
+##### Catch up with the latest from our blog
+
+<ol class="pt-4">
+{%- for post in collections.post | limit(5) -%}
+  <li><a class="underline" href="{{ post.url }}">{{ post.data.title }}</a></li>
+{%- endfor -%}
+</ol>
