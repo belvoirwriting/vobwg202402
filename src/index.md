@@ -19,12 +19,12 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: home/suzyhazelwood2.jpg # relative to /assets/images/
+    image: home/Books_by_shutterhacks.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
-  headingText: Join our writing group,<br>today
+  headingText: Vale of Belvoir,<br>Writing Group
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
   subheadingText: a space to share words, inspiration and encouragement
