@@ -2,7 +2,7 @@
 title: Technical difficulties
 date: 2024-02-17T17:44:03.000Z
 author: tris
-excerpt: is this thing on? Website update and theme for the March 2024 meeting
+excerpt: Is this thing on? Website update and theme for the March 2024 meeting
 draft: 
 seo:
   title:
@@ -27,3 +27,5 @@ All the old posts are back on the website after an interlude using a supposedly 
 **Frustration or a fresh start?**
 
 Please feel free to use, modify or ignore the optional theme of "technical difficulties" for your February and March writing. This could be a short story, poem, blog post or tract about your own  or your characters' technical difficulties. How does this impact events? How does it make you or your characters feel? Has it ever been that much that you've put aside your device and preferred to find peace in the garden or a pint at the pub?
+
+Image: Technical Difficulties by Henry Shi https://www.flickr.com/photos/henryshi/
