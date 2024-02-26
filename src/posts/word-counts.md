@@ -35,21 +35,26 @@ First-time or unknown authors who haven’t yet built a substantial following sh
 […]  
 
 Sci-fi/fantasy: Another top-selling self-published genre, science fiction and fantasy books do best with a word count between 80K-150K words. (Since supernatural books often create entire worlds, they sometimes require more words than realistic novels.) 
-First-time and unknown authors should keep their books shorter. 
+First-time and unknown authors should keep their books shorter.
+
 http://selfpublishingrelief.com/best-word-count-for-self-published-novel  
 
 **TRADITIONALLY-PUBLISHED BOOKS**
+<br>
 The overall ideal word count average is between 80,000 and 100,000 words. The industry rule of thumb is that there are roughly 200 words per written page. To put this in perspective, here are some averages on famous writers/books for their typical novel:  Stephen King: 430,000 
 Harry Potter: 257,000 
 Ernest Hemingway: 68,000  
 
 Here are the word counts for some NY Times Bestselling Fiction Books:  
+<br>
 Fifty Shades of Grey: 105,000 
 Gone Girl: 86,400 
 The Racketeer: 70,400
 This was according to http://pandamoonpublishing.com/pandamoon/wordcounts.html But it’s a broken link now
 
 **An interview with Daniel Abraham (aka one half of James SA Corey, authors of the Expanse series) says this:**
+<br>
 Any rituals, gimmicks or cheesy self-help techniques that help you write? 
+<br>
 _Oh my yes. I have a perverse fixation on word count. Part of what lets me go quickly is having the additional obstacle of a particular length I’m shooting for. So, for instance, almost all of my chapters are 3,000 words long, plus or minus a couple hundred words. When I start a book or a story, I can tell you within a couple thousand words how long the first draft is going to be. It’s an axiom. I don’t understand how people just head into a story and let it figure out its own dimensions. It’s like starting a painting without knowing what size canvas you’re on. That’s just weird._
 http://craigengler.com/post/122771403527/writers-on-writing-daniel-abraham-aka-james (this is a dead link) 
