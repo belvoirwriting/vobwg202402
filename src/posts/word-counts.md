@@ -47,9 +47,13 @@ Ernest Hemingway: 68,000
 
 Here are the word counts for some NY Times Bestselling Fiction Books:  
 <br>
-Fifty Shades of Grey: 105,000 
+
+Fifty Shades of Grey: 105,000
+
 Gone Girl: 86,400 
+
 The Racketeer: 70,400
+
 This was according to http://pandamoonpublishing.com/pandamoon/wordcounts.html But it’s a broken link now
 
 **An interview with Daniel Abraham (aka one half of James SA Corey, authors of the Expanse series) says this:**
