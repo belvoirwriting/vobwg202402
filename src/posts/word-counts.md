@@ -9,8 +9,8 @@ seo:
   description:
   image: 
 images: # relative to /src/assets/images/
-  feature: 
-  thumb: 
+  feature: home/Books_by_shutterhacks.jpg
+  thumb: home/Books_by_shutterhacks.jpg
   slide:
 tags:
   - novels
@@ -56,8 +56,10 @@ The Racketeer: 70,400
 This was according to http://pandamoonpublishing.com/pandamoon/wordcounts.html But it’s a broken link now
 
 **An interview with Daniel Abraham (aka one half of James SA Corey, authors of the Expanse series) says this:**
-<br>
+
+
 Any rituals, gimmicks or cheesy self-help techniques that help you write? 
-<br>
+
+
 _Oh my yes. I have a perverse fixation on word count. Part of what lets me go quickly is having the additional obstacle of a particular length I’m shooting for. So, for instance, almost all of my chapters are 3,000 words long, plus or minus a couple hundred words. When I start a book or a story, I can tell you within a couple thousand words how long the first draft is going to be. It’s an axiom. I don’t understand how people just head into a story and let it figure out its own dimensions. It’s like starting a painting without knowing what size canvas you’re on. That’s just weird._
 http://craigengler.com/post/122771403527/writers-on-writing-daniel-abraham-aka-james (this is a dead link) 
