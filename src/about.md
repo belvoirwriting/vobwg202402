@@ -28,7 +28,9 @@ Things took a turn in 2020 and we found ourselves unable to meet in the church o
 <p>
 ### Old School 
 
-At the end of 2022 we were fortunate to find a new home in the real world. We now meet in the Parish Room, the Old School, Grantham Road, Bottesford. We welcome writers from all over the Vale of Belvoir and beyond. It doesn't matter if you're from Bottesford, Plungar, Redmile, Granby, Muston, Stathern, Eastwell, Grantham, Melton, Nottingham or anywhere else. Most members are from Bottesford and surrounding villages and all contribute to our friendly community of writers.</p>
+At the end of 2022 we were fortunate to find a new home in the real world. We now meet in the Parish Room, the Old School, Grantham Road, Bottesford. 
+
+We welcome writers from all over the Vale of Belvoir and beyond. We're located on the Nottinghamshire, Leicestershire, Lincolnshire border but it doesn't matter if you're from Bottesford, Plungar, Redmile, Granby, Muston, Stathern, Eastwell, Grantham, Melton, Nottingham or anywhere else. Most members are from Bottesford and surrounding villages and all contribute to our friendly community of writers.</p>
 <p>
 #### Join us at our next meeting
 
