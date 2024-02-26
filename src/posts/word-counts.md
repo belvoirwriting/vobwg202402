@@ -41,8 +41,11 @@ http://selfpublishingrelief.com/best-word-count-for-self-published-novel
 
 **TRADITIONALLY-PUBLISHED BOOKS**
 
-The overall ideal word count average is between 80,000 and 100,000 words. The industry rule of thumb is that there are roughly 200 words per written page. To put this in perspective, here are some averages on famous writers/books for their typical novel:  Stephen King: 430,000 
+The overall ideal word count average is between 80,000 and 100,000 words. The industry rule of thumb is that there are roughly 200 words per written page. To put this in perspective, here are some averages on famous writers/books for their typical novel:
+Stephen King: 430,000 
+
 Harry Potter: 257,000 
+
 Ernest Hemingway: 68,000  
 
 Here are the word counts for some NY Times Bestselling Fiction Books:  
@@ -53,7 +56,7 @@ Gone Girl: 86,400
 
 The Racketeer: 70,400
 
-http://pandamoonpublishing.com/pandamoon/wordcounts.html (broken link)
+[broken link](http://pandamoonpublishing.com/pandamoon/wordcounts.html)
 
 **An interview with Daniel Abraham (aka one half of James SA Corey, authors of the Expanse series) says this:**
 
