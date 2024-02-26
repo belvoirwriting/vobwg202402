@@ -9,7 +9,7 @@ seo:
   description:
   image: street-scene-sept20.jpeg
 images: # relative to /src/assets/images/
-  feature:
+  feature: street-scene-sept20.jpeg
   thumb: street-scene-sept20.jpeg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: # optional. Default = h-48 md:h-1/3
