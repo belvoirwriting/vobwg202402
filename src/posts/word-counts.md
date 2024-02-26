@@ -27,7 +27,11 @@ Literary / Commercial / Women's: 80,000 to 110,000 Crime Fiction: 90,000 to 100,
 “Between 80,000 and 89,999 words is a good range you should be aiming for.” 
 http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/word-count-for-novels-and-childrens-books-the-definitive-post  
 
-“Anything above 70k but less than 115k (science fiction and fantasy tend to run up around 100k-115k words). The sweet spot for adult is about 90k. […] Pro tip: Try not to completely tether yourself to word counts. Let your writing take you where you need to go. But use good intuition and follow some of the rules.” 
+“Anything above 70k but less than 115k (science fiction and fantasy tend to run up around 100k-115k words). The sweet spot for adult is about 90k. 
+
+[…] 
+
+Pro tip: Try not to completely tether yourself to word counts. Let your writing take you where you need to go. But use good intuition and follow some of the rules.” 
 https://litreactor.com/columns/ask-the-agent-your-novel-word-count-guide-and-more  
 
 First-time or unknown authors who haven’t yet built a substantial following should stay within a 70K-100K window.  Mainstream Fiction: Mainstream fiction novels, also termed “general fiction” and “commercial fiction,” are best received when they fall within a 70K-100K word range.  
@@ -35,6 +39,7 @@ First-time or unknown authors who haven’t yet built a substantial following sh
 […]  
 
 Sci-fi/fantasy: Another top-selling self-published genre, science fiction and fantasy books do best with a word count between 80K-150K words. (Since supernatural books often create entire worlds, they sometimes require more words than realistic novels.) 
+
 First-time and unknown authors should keep their books shorter.
 
 http://selfpublishingrelief.com/best-word-count-for-self-published-novel  
