@@ -21,7 +21,7 @@ _This is something rescued from the old forum and has a couple of dead links in 
 I was trying to get an idea of how many words should be in a novel and found a few articles. Cut’n’paste snippets and links are below but the short version is "it depends".  
 
 **Articles on word count:**
-<br>
+
 Literary / Commercial / Women's: 80,000 to 110,000 Crime Fiction: 90,000 to 100,000 - The page-turning demands and competitive market enforce a word count which it is advisable to comply to Mysteries / Thrillers / Suspense: 70,000 to 90,000 http://www.litrejections.com/word-count/  
 
 “Between 80,000 and 89,999 words is a good range you should be aiming for.” 
@@ -40,7 +40,7 @@ First-time and unknown authors should keep their books shorter.
 http://selfpublishingrelief.com/best-word-count-for-self-published-novel  
 
 **TRADITIONALLY-PUBLISHED BOOKS**
-<br>
+
 The overall ideal word count average is between 80,000 and 100,000 words. The industry rule of thumb is that there are roughly 200 words per written page. To put this in perspective, here are some averages on famous writers/books for their typical novel:  Stephen King: 430,000 
 Harry Potter: 257,000 
 Ernest Hemingway: 68,000  
@@ -53,13 +53,11 @@ Gone Girl: 86,400
 
 The Racketeer: 70,400
 
-This was according to http://pandamoonpublishing.com/pandamoon/wordcounts.html But it’s a broken link now
+http://pandamoonpublishing.com/pandamoon/wordcounts.html (broken link)
 
 **An interview with Daniel Abraham (aka one half of James SA Corey, authors of the Expanse series) says this:**
 
-
 Any rituals, gimmicks or cheesy self-help techniques that help you write? 
-
 
 _Oh my yes. I have a perverse fixation on word count. Part of what lets me go quickly is having the additional obstacle of a particular length I’m shooting for. So, for instance, almost all of my chapters are 3,000 words long, plus or minus a couple hundred words. When I start a book or a story, I can tell you within a couple thousand words how long the first draft is going to be. It’s an axiom. I don’t understand how people just head into a story and let it figure out its own dimensions. It’s like starting a painting without knowing what size canvas you’re on. That’s just weird._
 http://craigengler.com/post/122771403527/writers-on-writing-daniel-abraham-aka-james (this is a dead link) 
