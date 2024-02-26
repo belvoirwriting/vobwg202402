@@ -46,7 +46,6 @@ Harry Potter: 257,000
 Ernest Hemingway: 68,000  
 
 Here are the word counts for some NY Times Bestselling Fiction Books:  
-<br>
 
 Fifty Shades of Grey: 105,000
 
