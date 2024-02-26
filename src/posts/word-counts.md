@@ -18,7 +18,7 @@ tags:
 ---
 _This is something rescued from the old forum and has a couple of dead links in it. I think the information is still worth a look though._
 
-I was trying to get an idea of how many words should be in a novel and found a few articles. Cut’n’paste snippets and links are below but the short version is "it depends".  
+I was trying to get an idea of how many words should be in a novel and found a few articles. Copy’n’paste snippets and links are below but the short version is "it depends".  
 
 **Articles on word count:**
 
