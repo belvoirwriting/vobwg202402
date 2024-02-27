@@ -43,9 +43,9 @@ heroSettings:
       - home/9.jpg
 ---
 
-Get in touch to join our next meeting. Email words@belvoirwriting.co.uk. 
+Get in touch to join our next meeting in Bottesford. Email words@belvoirwriting.co.uk. 
 
-We are a group of writers from all over the Vale of Belvoir and beyond. We meet every month in Bottesford. Each meeting has an optional theme that you can use as a writing prompt. We also love to hear your works in progress and to meet anyone curious about writing.
+We are a group of writers from all over the Vale of Belvoir and beyond. We meet every month in the Parish Room next to Bottesford library. Each meeting has an optional theme that you can use as a writing prompt. We also love to hear your works in progress and to meet anyone curious about writing.
 
 > ##### Upcoming dates for 2024:
 >
