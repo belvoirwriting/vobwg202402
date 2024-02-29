@@ -59,3 +59,5 @@ We are a group of writers from all over the Vale of Belvoir and beyond. We meet 
 > - 8 October
 > - 12 November
 > - 10 December
+
+We meet at 8pm till around 9.30pm on the second Tuesday of every month.
