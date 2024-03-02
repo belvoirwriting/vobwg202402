@@ -51,8 +51,8 @@ We meet every second Tuesday of the month at 8pm in the Parish Room, The Old Sch
 
 We meet from 8pm usually to around 9.30pm
 
-### What we mean by Vale of Belvoir
-Belvoir is derived from the Norman-French for beautiful view and includes these beautiful villages:
+### What we mean by _Vale of Belvoir_
+_Belvoir_ is derived from the Norman-French for beautiful view and includes these beautiful villages:
 
 **Nottinghamshire**
 
