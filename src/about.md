@@ -55,6 +55,7 @@ We meet from 8pm usually to around 9.30pm
 Belvoir is derived from the Norman-French for beautiful view and includes these beautiful villages:
 
 **Nottinghamshire**
+
 Alverton
 
 Aslockton
@@ -116,6 +117,7 @@ Upper Broughton
 Whatton-in-the-Vale
 
 **Leicestershire**
+
 Barkestone-le-Vale
 
 Belvoir
@@ -151,6 +153,7 @@ Redmile
 Stathern
 
 **Lincolnshire**
+
 Allington
 
 Branston
