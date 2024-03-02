@@ -50,3 +50,117 @@ We meet every second Tuesday of the month at 8pm in the Parish Room, The Old Sch
 > - 10 December
 
 We meet from 8pm usually to around 9.30pm
+
+### What we mean by Vale of Belvoir
+Belvoir is derived from the Norman-French for beautiful view and includes these beautiful villages:
+
+**Nottinghamshire**
+Alverton
+
+Aslockton
+
+Barnstone
+
+Bingham
+
+Car Colston
+
+Colston Bassett
+
+Cropwell Bishop
+
+Cropwell Butler
+
+Elton on the Hill
+
+Flawborough
+
+Flintham
+
+Granby
+
+Hawksworth
+
+Hickling
+
+Kilvington
+
+Kinoulton
+
+Langar
+
+Orston
+
+Owthorpe
+
+Scarrington
+
+Screveton
+
+Shelton
+
+Sibthorpe
+
+Staunton in the Vale
+
+Sutton
+
+Syerston
+
+Thoroton
+
+Tithby
+
+Upper Broughton
+
+Whatton-in-the-Vale
+
+**Leicestershire**
+Barkestone-le-Vale
+
+Belvoir
+
+Bottesford
+
+Croxton Kerrial
+
+Eaton
+
+Harby
+
+Harston
+
+Hose
+
+Knipton
+
+Long Clawson
+
+Muston
+
+Nether Broughton
+
+Normanton
+
+Old Dalby
+
+Plungar
+
+Redmile
+
+Stathern
+
+**Lincolnshire**
+Allington
+
+Branston
+
+Denton
+
+Foston
+
+Harlaxton
+
+Sedgebrook
+
+Woolsthorpe by Belvoir
