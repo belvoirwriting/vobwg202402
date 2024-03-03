@@ -32,7 +32,7 @@ We had a good discussion last month using these questions from _Writing Magazine
 >
 >2. What is it really about? 
 >
->ii)Strip two or three of your stories down to the essential conflicts of your main characters. Then answer the following: 
+>ii) Strip two or three of your stories down to the essential conflicts of your main characters. Then answer the following: 
 >
 >1. What are their goals? 
 >
@@ -47,7 +47,3 @@ We had a good discussion last month using these questions from _Writing Magazine
 
 
 And we can revisit these for anyone that missed out last time. 
-
-
-
-See you all on Tuesday,
