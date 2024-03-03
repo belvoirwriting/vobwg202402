@@ -27,6 +27,7 @@ Literary / Commercial / Women's: 80,000 to 110,000
 Crime Fiction: 90,000 to 100,000 - The page-turning demands and competitive market enforce a word count which it is advisable to comply to 
 
 Mysteries / Thrillers / Suspense: 70,000 to 90,000 
+
 http://www.litrejections.com/word-count/  
 
 “Between 80,000 and 89,999 words is a good range you should be aiming for.” 
