@@ -22,27 +22,27 @@ Scenes! Yes, as dramatically announced at our last meeting, our next theme is �
 What makes a good scene? What are the essential elements? How do you approach each scene? And do you agree with these “tips from the pros” from _The Writer_ May 2023?
 
 >**Barbara DeMarco-Barrett:**
-
+>
 >“In a good scene, characters enter one way and leave another way. By the end of a good scene, we know a little more about the character and what they’re dealing with than we knew going in.”
-
+>
 >**Connie Berry:**
-
+>
 >“A great scene has a specific purpose in the whole story, leads inevitably to the next scene, and, most importantly, keeps the reader turning pages.”
-
+>
 >**Robert Garner McBrearty:**
-
-“A good scene creates a vivid and lasting impression so that readers can visualize and experience what’s happening. It’s not a matter of how much sensory detail but how well-chosen it is.”
-
+>
+>“A good scene creates a vivid and lasting impression so that readers can visualize and experience what’s happening. It’s not a matter of how much sensory detail but how well-chosen it is.”
+>
 >**Anthony Varallo:**
-
+>
 >“A good scene enlists the reader’s involvement in the story to the degree that they feel shoulder to shoulder with your characters.”
-
+>
 >**Sophie Sullivan:**
-
+>
 >“You know a scene is good when you feel like you, as the reader, are part of it; the characters’ emotions resonate off the pages and make you want to know more. A good scene sends that jolt to your heart or stomach because it has an impact.”
-
+>
 >**Lisa Peers:**
-
+>
 >“A great scene is a diabolical mix of tension and release. On the one hand, it provides answers that move the story forward and develop the characters — but on the other hand, it sparks even more questions that compel the reader to turn the page.”
 
 
