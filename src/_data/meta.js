@@ -2,7 +2,7 @@ module.exports = {
 	siteURL: process.env.URL || 'http://localhost:8080',
 	siteName: "Vale of Belvoir Writing Group",
 	siteDescription:
-		'A writing group for the Vale of Belvoir.',
+		'writers meeting monthly in Bottesford',
 	siteImage: '/assets/images/site/default.png',
 	lang: 'en',
 	locale: 'en_us',
