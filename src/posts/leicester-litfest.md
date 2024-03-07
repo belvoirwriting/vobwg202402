@@ -23,6 +23,6 @@ The University of Leicester's free [Literary Leicester litfest](https://le.ac.uk
 
 This on top of all the excellent guest author events, including Adam Kay, Russell Kane, _The Guardian's_ nature writer Mark Cocker, _The Sky at Night's_ Maggie-Aderin-Pocock, 40 Years of Mental Health in Leicestershire, Byron versus Wordsworth, Latin American Writers and much more.
 
-Here's the general ticket site: https://www.tickettailor.com/events/literaryleicester2024
+Free tickets are available through [TicketTailor](https://www.tickettailor.com/events/literaryleicester2024)
 
 Find out more at https://le.ac.uk/literary-leicester and https://le.ac.uk/new-writing.
