@@ -27,27 +27,23 @@ We had a good discussion last month using these questions from _Writing Magazine
 
 
 >i) Take the story you are writing at the moment. Ask yourself: 
-
+>
 >1. What is the story about? 
-
+>
 >2. What is it really about? 
-
->ii)Strip two or three of your stories down to the essential conflicts of your main characters. Then answer the following: 
-
+>
+>ii) Strip two or three of your stories down to the essential conflicts of your main characters. Then answer the following: 
+>
 >1. What are their goals? 
-
+>
 >2. What are their hopes and fears? 
-
+>
 >3. What drives them? 
-
+>
 >4. What is the consequence of failure? 
-
+>
 >5. Reflect on these answers in light of your own lived experience. 
 
 
 
 And we can revisit these for anyone that missed out last time. 
-
-
-
-See you all on Tuesday,
