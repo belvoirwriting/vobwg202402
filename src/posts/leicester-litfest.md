@@ -1,5 +1,5 @@
 ---
-title: Leicester LitFest
+title: Literary Leicester litfest 20-22 March 2024
 date: 2024-03-07T23:00:00.000+00:00
 author: tris
 excerpt: Free literary festival including writing workshop and showcase
