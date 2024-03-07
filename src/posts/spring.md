@@ -32,11 +32,7 @@ We had a good discussion last month using these questions from _Writing Magazine
 >
 >2. What is it really about? 
 >
-<<<<<<< Updated upstream
->ii) Strip two or three of your stories down to the essential conflicts of your main characters. Then answer the following: 
-=======
 >ii)Strip two or three of your stories down to the essential conflicts of your main characters. Then answer the following: 
->>>>>>> Stashed changes
 >
 >1. What are their goals? 
 >
