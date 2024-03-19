@@ -25,8 +25,8 @@ Nostalgia, the old joke goes, isn't what it used to be. And now a sort of instan
 -Is it a wistful or perhaps even a sardonic statement?
 -If you could go back, would you?
 
-Whatever your medium, whether it's poetry, a short story, travelogue, lifestyle article pr something else completely, it would be wonderful to hear what you've been working on.
+Whatever your medium, whether it's poetry, a short story, travelogue, lifestyle article or something else completely, it would be wonderful to hear what you've been working on.
 
 We'll be in the Old School, Bottesford from 8pm on 9 April 2024. 
 
-<p class="attribution">"<a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/28435100@N00/268066713">Telemark Party, 1980</a>" by <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/28435100@N00">nordique</a> is licensed under <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img></a>. </p>
+<p class="attribution">Image: "<a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/28435100@N00/268066713">Telemark Party, 1980</a>" by <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/28435100@N00">nordique</a> is licensed under <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img></a>. </p>
