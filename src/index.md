@@ -50,7 +50,7 @@ We are a group of writers from all over the Vale of Belvoir and beyond. We meet 
 > ##### Upcoming dates for 2024:
 >
 > - ~~12 March.~~ ***Optional theme:*** [Technical difficulties](/2024/02/17/technical-difficulties)
-> - 9 April. ***Optional theme:*** [Those were the days](/src/posts/2024/03/17/those-were-the-days)
+> - 9 April. ***Optional theme:*** [Those were the days](/2024/03/17/those-were-the-days)
 > - 14 May
 > - 11 June
 > - 9 July
