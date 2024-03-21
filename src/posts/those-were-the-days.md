@@ -17,11 +17,11 @@ tags:
   - themes
 ---
 
-*Nostalgia, the old joke goes, isn't what it used to be. I remember when it was all talking-head clip shows of [celebrities](https://en.m.wikipedia.org/wiki/I_Love_the_%2780s_(British_TV_series)) telling you why they loved the seventies or the eighties. You might also get a supplement in the _Evening Post_, if you were lucky, all about Nottingham at war and the fun everyone had while they sheltered from the bombs. You'd have to walk all the way to the newsagents just to get that and a [Maverick](https://youtu.be/pNq6niFzR78?feature=shared) bar (or some other chocolate that they no longer make) though. It's not even called the _Evening Post_ any more. It's all on the internet.
+*Nostalgia, the old joke goes, isn't what it used to be. I remember when it was all talking-head clip shows of [celebrities](https://en.m.wikipedia.org/wiki/I_Love_the_%2780s_(British_TV_series)) telling you why they loved the seventies or the eighties. You might also get a supplement in the _Evening Post_, if you were lucky, all about Nottingham at war and the fun everyone had while they sheltered from the bombs. You'd have to walk all the way to the newsagents just to get that and a [Maverick](https://youtu.be/pNq6niFzR78?feature=shared) bar (or some other chocolate that they no longer make) though. It's not even called the _Evening Post_ any more. It's all on the internet.*
 
-You young people don't know what it's like having to put in the effort for your past to be sold back to you. You look at your phones and your photo apps pinging you with "memories", flashbacks to the long ago times of last summer or packaged-up slideshows of the dog, and then think you're doing some remembering. It's not proper nostalgia, not like we had.
+*You young people don't know what it's like having to put in the effort for your past to be sold back to you. You look at your phones and your photo apps pinging you with "memories", flashbacks to the long ago times of last summer or packaged-up slideshows of the dog, and then think you're doing some remembering. It's not proper nostalgia, not like we had.*
 
-[Modern life is rubbish](https://www.discogs.com/master/92102-Blur-Modern-Life-Is-Rubbish) and I bet you lot won't even get that musical reference to when music was good...*
+*[Modern life is rubbish](https://www.discogs.com/master/92102-Blur-Modern-Life-Is-Rubbish) and I bet you lot won't even get that musical reference to when music was good...*
 
 Our writing theme for April gets all creaky at the knees and dons some rose-tinted specs to declare "those were the days". How you use this is up to you, but a few possible questions to kick things off are:
 
