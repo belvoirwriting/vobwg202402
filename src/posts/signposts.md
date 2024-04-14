@@ -1,7 +1,7 @@
 ---
 title: Signposts
 date: 2024-04-14T23:00:00Z
-excerpt: Now where did it go?
+excerpt: Find your way to our next meeting
 author: tris
 draft: 
 seo:
