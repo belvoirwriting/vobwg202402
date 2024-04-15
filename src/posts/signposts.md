@@ -7,10 +7,10 @@ draft:
 seo:
   title:
   description:
-  image: lost_and_found.jpg
+  image: /2024/granby_signpost.jpg
 images: # relative to /src/assets/images/
-  feature: lost_and_found.jpg
-  thumb: lost_and_found.jpg
+  feature: /2024/granby_signpost.jpg
+  thumb: /2024/granby_signpost.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: # optional. Default = h-48 md:h-1/3
 tags:
