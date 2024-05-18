@@ -60,4 +60,4 @@ We are a group of writers from all over the Vale of Belvoir and beyond. We meet 
 > - 12 November
 > - 10 December
 
-We meet at 8pm till around 9.30pm on the second Tuesday of every month. Attendance is free. We've never charged any membership fees and will always try to keep the group as a free activity for everyone. 
+We meet at 8pm till around 9.30pm on the second Tuesday of every month. Oh, and it's free to attend. We don't charge any membership fees or anything like that. 
