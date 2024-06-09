@@ -41,8 +41,8 @@ We meet every second Tuesday of the month at 8pm in the Parish Room, The Old Sch
 >
 > - ~~12 March.~~ ***Optional theme:*** [Technical difficulties](/2024/02/17/technical-difficulties)
 > - ~~9 April. ***Optional theme:*** [Those were the days](/2024/03/17/those-were-the-days)~~
-> - 14 May. ***Optional theme:*** [Signposts](/2024/04/14/signposts)
-> - 11 June
+> - 14 May.~~ ***Optional theme:*** [Signposts](/2024/04/14/signposts)~~ 
+> - 11 June. ***Optional theme:*** Object
 > - 9 July
 > - 13 August
 > - 10 September
