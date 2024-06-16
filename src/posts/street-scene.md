@@ -26,4 +26,4 @@ The suggested writing theme is entirely optional. Bring along whatever you’re 
 
 We’ll meet at 8pm on Tuesday 8 September 2020 via Google Meet.
 
-![alt text](/2020/08/18/street-scene-sept20.jpeg "street scene")
+![alt text](2020/08/18/street-scene-sept20.jpeg "street scene")
