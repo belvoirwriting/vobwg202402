@@ -19,7 +19,7 @@ tags:
 
 For 11 June our theme will be - object. 
 
-We ended the last meeting talking about how this could an object that is filled with meaning, an important metaphor for the rest of the text. It could also be a MacGuffin or a moment to reflect on why we need to write. 
+We ended the last meeting talking about how this could be an object that is filled with meaning, an important metaphor for the rest of the text. It could also be a MacGuffin or a moment to reflect on why we need to write. 
 
 The Scrivener podcast I was talking about is Write Now with Scrivener (https://podcast.scrivenerapp.com). Each episode is an interview with a writer, usually about how they write, with a bit at the end about how they use the app. 
 
