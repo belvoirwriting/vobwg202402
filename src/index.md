@@ -22,8 +22,8 @@ heroSettings:
     image: home/plane.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
-    opacityMobile: opacity-100 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
-    opacityDesktop: opacity-100 # Leave blank to inherit opacityMobile, use same options as opacityMobile
+    opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
+    opacityDesktop: opacity-50 # Leave blank to inherit opacityMobile, use same options as opacityMobile
   headingText: Monthly meet-ups<br>for writers
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
