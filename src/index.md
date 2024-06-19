@@ -27,7 +27,7 @@ heroSettings:
   headingText: Monthly meet-ups<br>for writers
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
-  subheadingText: a space to share words, inspiration and encouragement
+  subheadingText: a space to share words, inspiration and encouragement<br>Next meeting: 9 July. ***Optional theme:*** [Random](/2024/06/15/random)
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: Contact Us... # no button generated if left blank
   buttonURL: /contact/ # full url required. Example: https://thisdomain.com/somepage/
