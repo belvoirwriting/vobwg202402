@@ -7,10 +7,10 @@ draft:
 seo:
   title:
   description:
-  image: street-scene-sept20.jpeg
+  image: 
 images: # relative to /src/assets/images/
-  feature: street-scene-sept20.jpeg
-  thumb: street-scene-sept20.jpeg
+  feature: 
+  thumb: 
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: # optional. Default = h-48 md:h-1/3
 tags:
@@ -26,4 +26,4 @@ The suggested writing theme is entirely optional. Bring along whatever you’re 
 
 We’ll meet at 8pm on Tuesday 8 September 2020 via Google Meet.
 
-![alt text](https://belvoirwriting.co.uk/assets/images/street-scene-sept20.jpeg)
+*Edit 9/6/24*: the original image has been removed. You'll just have to imagine a street scene and the things we wrote back in 2020. The image was copied from Google images before we were more careful about trying to use only public domain or Creative Commons licensed images. Apologies to the original photographer. We hope the licensing fee reaches you. 
