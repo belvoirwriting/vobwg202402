@@ -53,8 +53,8 @@ We are a group of writers from all over the Vale of Belvoir and beyond. We meet 
 > - ~~9 April. ***Optional theme:*** [Those were the days](/2024/03/17/those-were-the-days)~~
 > - ~~14 May. ***Optional theme:*** [Signposts](/2024/04/14/signposts)~~
 > - ~~11 June. ***Optional theme:*** [Object](/2024/06/09/object)~~
-> - 9 July. ***Optional theme:*** [Random](/2024/06/15/random)
-> - 13 August
+> - ~~9 July. ***Optional theme:*** [Random](/2024/06/15/random)~~
+> - 13 August. ***Optional theme:*** Messages
 > - 10 September
 > - 8 October
 > - 12 November
