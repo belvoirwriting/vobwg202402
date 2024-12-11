@@ -47,17 +47,19 @@ Get in touch to join our next meeting for free in Bottesford. Email words@belvoi
 
 We are a group of writers from all over the Vale of Belvoir and beyond. We meet every month in the Parish Room next to Bottesford library. Each meeting has an optional theme that you can use as a writing prompt. We also love to hear your works in progress and to meet anyone curious about writing.
 
-> ##### Upcoming dates for 2024:
+> ##### Meeting dates for 2025:
 >
-> - ~~12 March. ***Optional theme:*** [Technical difficulties](/2024/02/17/technical-difficulties)~~
-> - ~~9 April. ***Optional theme:*** [Those were the days](/2024/03/17/those-were-the-days)~~
-> - ~~14 May. ***Optional theme:*** [Signposts](/2024/04/14/signposts)~~
-> - ~~11 June. ***Optional theme:*** [Object](/2024/06/09/object)~~
-> - ~~9 July. ***Optional theme:*** [Random](/2024/06/15/random)~~
-> - ~~13 August. ***Optional theme:*** Messages~~
-> - ~~10 September. ***Optional theme:*** Stars~~
-> - 8 October. ***Optional theme:*** Comfort food
-> - 12 November
-> - 10 December
+> - 14 January 2025
+> - 11 February 2025
+> - 11 March 2025
+> - 8 April 2025
+> - 13 May 2025
+> - 10 June 2025
+> - 8 July 2025
+> - 12 August 2025
+> - 9 September 2025
+> - 14 October 2025
+> - 11 November 2025
+> - 9 December 2025
 
 We meet at 8pm till around 9.30pm on the second Tuesday of every month. Oh, and it's free to attend. We don't charge any membership fees or anything like that. 
