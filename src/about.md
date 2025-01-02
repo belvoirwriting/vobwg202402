@@ -37,18 +37,20 @@ We welcome writers from all over the Vale of Belvoir and beyond. We're located o
 ### Join us at our next meeting
 We meet every second Tuesday of the month at 8pm in the Parish Room, The Old School (next to the library) in Bottesford. We have optional themes for each meeting, which you can choose to write about or completely ignore. Some people like to share their works in progress, but there's no obligation to bring or read out any writing. </p>
 
-> ##### Upcoming dates for 2024:
+> ##### Meeting dates for 2025:
 >
-> - ~~12 March.~~ ***Optional theme:*** [Technical difficulties](/2024/02/17/technical-difficulties)
-> - ~~9 April. ***Optional theme:*** [Those were the days](/2024/03/17/those-were-the-days)~~
-> - 14 May.~~ ***Optional theme:*** [Signposts](/2024/04/14/signposts)~~ 
-> - ~~11 June. ***Optional theme:*** [Object](/2024/06/09/object)~~
-> - 9 July. ***Optional theme:*** [Random](/2024/06/15/random)
-> - 13 August
-> - 10 September
-> - 8 October
-> - 12 November
-> - 10 December
+> - 14 January 2025
+> - 11 February 2025
+> - 11 March 2025
+> - 8 April 2025
+> - 13 May 2025
+> - 10 June 2025
+> - 8 July 2025
+> - 12 August 2025
+> - 9 September 2025
+> - 14 October 2025
+> - 11 November 2025
+> - 9 December 2025
 
 We meet from 8pm usually to around 9.30pm
 
