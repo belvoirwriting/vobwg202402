@@ -19,7 +19,7 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: home/barnstone.jpg # relative to /assets/images/
+    image: # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
@@ -42,6 +42,14 @@ heroSettings:
       - home/8.jpg
       - home/9.jpg
 ---
+<div style="position: relative; width: 100%; height: 0; padding-top: 20.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAF91awkjBs/N9IZqmZMpeycv05xT33Gdw/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF91awkjBs&#x2F;N9IZqmZMpeycv05xT33Gdw&#x2F;watch?utm_content=DAF91awkjBs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">True Typewriter PolygloTT (1000 x 200 px) (1000 x 200 px)</a> by ckt4knp8qb
 
 Get in touch to join our next meeting for free in Bottesford. Email words@belvoirwriting.co.uk. 
 
