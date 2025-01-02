@@ -1,6 +1,6 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
-title: Vale of Belvoir Writing Group
+title: Vale of Belvoir Writing Group - find your inspiration
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
 author: tris # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
@@ -42,8 +42,6 @@ heroSettings:
       - home/8.jpg
       - home/9.jpg
 ---
-![Find your inspiration](inspiration.gif)
-<br>
 Get in touch to join our next meeting for free in Bottesford. Email words@belvoirwriting.co.uk. 
 
 We are a group of writers from all over the Vale of Belvoir and beyond. We meet every month in the Parish Room next to Bottesford library. Each meeting has an optional theme that you can use as a writing prompt. We also love to hear your works in progress and to meet anyone curious about writing.
