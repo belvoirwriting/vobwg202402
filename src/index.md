@@ -42,7 +42,8 @@ heroSettings:
       - home/8.jpg
       - home/9.jpg
 ---
-![Find your inspiration](https://belvoirwriting.co.uk/images/inspiration.gif)
+![Find your inspiration](https://belvoirwriting.co.uk/src/assets/images/inspiration.gif)
+<br>
 Get in touch to join our next meeting for free in Bottesford. Email words@belvoirwriting.co.uk. 
 
 We are a group of writers from all over the Vale of Belvoir and beyond. We meet every month in the Parish Room next to Bottesford library. Each meeting has an optional theme that you can use as a writing prompt. We also love to hear your works in progress and to meet anyone curious about writing.
