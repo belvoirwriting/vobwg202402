@@ -42,15 +42,6 @@ heroSettings:
       - home/8.jpg
       - home/9.jpg
 ---
-<div style="position: relative; width: 100%; height: 0; padding-top: 20.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAF91awkjBs/N9IZqmZMpeycv05xT33Gdw/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF91awkjBs&#x2F;N9IZqmZMpeycv05xT33Gdw&#x2F;watch?utm_content=DAF91awkjBs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">True Typewriter PolygloTT (1000 x 200 px) (1000 x 200 px)</a> by ckt4knp8qb
-
 Get in touch to join our next meeting for free in Bottesford. Email words@belvoirwriting.co.uk. 
 
 We are a group of writers from all over the Vale of Belvoir and beyond. We meet every month in the Parish Room next to Bottesford library. Each meeting has an optional theme that you can use as a writing prompt. We also love to hear your works in progress and to meet anyone curious about writing.
