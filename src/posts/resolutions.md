@@ -16,7 +16,7 @@ tags:
   - meetings
   - themes
 ---
-Before we go any further, I’m really happy to share that Helene’s book is available for pre-order. We saw some early mock-up pages a few months ago and soon you’ll be able to get the finished product of Microbiome: The Universe Inside You.
+Before we go any further, I’m really happy to share that Helene’s book is available for pre-order. We saw some early mock-up pages a few months ago and soon you’ll be able to get the finished product of [Microbiome: The Universe Inside You](https://www.amazon.co.uk/Microbiome-Universe-Inside-Helene-Priestley-ebook/dp/B0CZTRDHHW/ref=mp_s_a_1_1?crid=31P45VPDEOVZG&dib=eyJ2IjoiMSJ9.rzfpkRmu6mST6qVokBy5wQ.1BwPG48LFdLGkWXUEvw7CK6u1xcVNgod2-rW8vDbxr0&dib_tag=se&keywords=helene+priestley&nsdOptOutParam=true&qid=1735844673&sprefix=helene+pr%2Caps%2C96&sr=8-1).
 
 We’ll start 2025 with the obvious new year theme of “resolutions”. Will you resolve to be at our first meeting of the year on 14 January at 8pm? We’ll be at the Parish Room in the Old School next to Bottesford library for about 90 minutes of writing chat, feedback, encouragement and resolutions. (As ever, ignore the theme if you’ve got something else you want to share.)
 
