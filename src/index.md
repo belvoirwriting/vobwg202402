@@ -42,7 +42,7 @@ heroSettings:
       - home/8.jpg
       - home/9.jpg
 ---
-![Find your inspiration](images/inspiration.gif)
+![Find your inspiration](inspiration.gif)
 <br>
 Get in touch to join our next meeting for free in Bottesford. Email words@belvoirwriting.co.uk. 
 
