@@ -23,3 +23,6 @@ We’ll start 2025 with the obvious new year theme of “resolutions”. Will yo
 My resolution could be to keep the blog updated. But I do have a passing curiosity in forgotten blogs and abandoned podcasts. Sometimes a search will lead me to old blogs, once regularly updated, seemingly entertaining and occasionally useful yet now preserved in internet amber. The gaps between posts get wider and there may be one or two final updates, apologies for life getting in the way of producing anything new and promises to get back to regular posting. And then silence interrupted only by the occasional commenter either real or bot.
 
 This blog may go quiet every now and again but we’ll continue to meet on the second Tuesday of every month, just as we have for about seven years now and hopefully for as long as there are writers writing in the Vale of Belvoir. 2024 was a great year for the group, full of interesting new voices and discussions that took us over our usual half nine-ish finish. I’m looking forward to seeing you all again to kick off 2025 with more great writing. 
+
+Image: extract from The Book of This and That by Robert Lynd
+https://gutenberg.org/ebooks/33174
