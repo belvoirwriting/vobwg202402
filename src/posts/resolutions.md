@@ -9,9 +9,9 @@ seo:
   description:
   image: 
 images: # relative to /src/assets/images/
-  feature: resolutions.png
-  thumb: resolutions.png
-  slide: resolutions.png
+  feature: resolutions.svg
+  thumb: resolutions.svg
+  slide: resolutions.svg
 tags:
   - meetings
   - themes
