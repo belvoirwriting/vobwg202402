@@ -32,3 +32,5 @@ There are occasional episodes reviewing books, or offering a rundown of miscella
 *Got Books?* is its own Biblio-Mat offering something unique and unusual in each episode. And, while it acknowledges the difficulties faced by independent book sellers, it’s never short of joy and curiosity two things that I would hope for in my own bookshop. That and a cat, a judgemental cat that has learned to roll its eyes if it disapproves of your purchases. 
 
 Got books? *is available in all the usual podcast places.*
+
+Image: "Wall of Books" by benuski is licensed under CC BY-SA 2.0.
