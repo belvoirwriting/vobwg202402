@@ -7,10 +7,10 @@ draft:
 seo:
   title:
   description:
-  image: 
+  image: home/wall_of_books.jpg
 images: # relative to /src/assets/images/
-  feature: 
-  thumb: 
+  feature: home/wall_of_books.jpg
+  thumb: home/wall_of_books.jpg
   slide:
 tags:
   - bookshops
