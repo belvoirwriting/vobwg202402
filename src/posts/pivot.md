@@ -1,6 +1,6 @@
 ---
 title: Pivot
-date: 2025-01-15T17:44:03.000Z
+date: 2025-01-17T20:44:03.000Z
 author: tris
 excerpt: February 2025 meeting theme
 draft: 
@@ -25,7 +25,7 @@ In *[Save the Cat! Writes a Novel](https://www.jessicabrody.com/books/non-fictio
 
 Similar pivots may be found in biographies or autobiographies as moments that changed everything for the subject or a decision taken to move in a new direction. 
 
-In poetry, a refrain could be employed, such as with “Nevermore” in The Raven, which Edgar Allen Poe describes in *[The Philosophy of Composition](https://www.gutenberg.org/files/55749/55749-h/55749-h.htm)* as “some pivot upon which the whole structure might turn.” (And yes, I am only thinking of *The Simpsons*' Treehouse of Horror.)
+In poetry, a refrain could be employed, such as with “Nevermore” in The Raven, which Edgar Allen Poe describes in *[The Philosophy of Composition](https://www.gutenberg.org/files/55749/55749-h/55749-h.htm)* as “some pivot upon which the whole structure might turn.” (And yes, I am only thinking of the first Treehouse of Horror episode from *The Simpsons*.)
 
 Pivot could also be something you do with spreadsheets, a shaft or pin to support something that turns or balances, or a [pirouette](https://www.glendagibson.com/post/wobbly-stone) or other dance turn. 
 
@@ -36,11 +36,11 @@ There was also some writing software chat last time and, for once, it wasn’t a
 Let us know if you find any other useful writing tools or if nothing can beat a good old fashioned notebook and pen.
 
 January’s cited works included:
-*[Ancillary Justice](https://annleckie.com/novel/ancillary-justice)* by Ann Leckie
-*[All Systems Red](https://www.marthawells.com/murderbot1.htm)* by Martha Wells
-*[The Snapper](https://uk.bookshop.org/p/books/the-snapper-roddy-doyle/238238?ean=9780749391256)* by Roddy Doyle
-*[Jane Eyre](https://www.gutenberg.org/ebooks/1260)* by Charlotte Brontë
-*[Microbiome: The Universe Inside You](https://www.waterstones.com/book/microbiome/helene-priestley-ph-d/david-rojas-mrquez-ph-d/9798887703961)* by Helene Priestley
+- *[Ancillary Justice](https://annleckie.com/novel/ancillary-justice)* by Ann Leckie
+- *[All Systems Red](https://www.marthawells.com/murderbot1.htm)* by Martha Wells
+- *[The Snapper](https://uk.bookshop.org/p/books/the-snapper-roddy-doyle/238238?ean=9780749391256)* by Roddy Doyle
+- *[Jane Eyre](https://www.gutenberg.org/ebooks/1260)* by Charlotte Brontë
+- *[Microbiome: The Universe Inside You](https://www.waterstones.com/book/microbiome/helene-priestley-ph-d/david-rojas-mrquez-ph-d/9798887703961)* by Helene Priestley
 
 Our next meeting is on 11 February 2025 in the Parish Room, The Old School, Bottesford (next to library) at 8pm till around 9.30pm. 
 
