@@ -14,7 +14,7 @@ seo:
 
 <p><i>For anyone interested in writing in the Vale of Belvoir and beyond. Email words@belvoirwriting.co.uk to join our next meeting or to find out more</i>.</p>
   
-<p>We are a group of writers meeting in Bottesford every second Tuesday of the month at 8pm in the Old School next to the library. We have a variety of interests including short stories, novels, gardening, artistic practice, and radio scripts.
+<p>We are a group of writers meeting in Bottesford every second Tuesday of the month at 8pm in the Old School next to the library. We have a variety of writing interests including short stories, novels, science fiction, historical fiction, memoir, gardening, artistic practice, and radio scripts.
 </p>
 <p>Our aims are to help writers find their own voice, to feel confident and encouraged with their writing, and to provide supportive space to try out new ideas. We also want to keep this free for everyone, with no membership or attendance fees and to provide a creative resource and outlet for the community.
 </p>
