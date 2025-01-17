@@ -17,7 +17,7 @@ tags:
   - themes
 ---
 
-February’s theme, randomly plucked from the air at the end of the last meeting, is “pivot” (or “pivot!” as was suggested in reference to this [scene from *Friends*](https://youtu.be/EPSpBrNyxQM)).
+February’s theme, randomly plucked from the air at the end of the last meeting, is “pivot” (or “pivot!” as was suggested in reference to this [scene](https://youtu.be/EPSpBrNyxQM) from *Friends*.)
 
 Pivot could be a turning point in a plot or a character’s arc. 
 
