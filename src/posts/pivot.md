@@ -21,7 +21,7 @@ February’s theme, randomly plucked from the air at the end of the last meeting
 
 Pivot could be a turning point in a plot or a character’s arc. 
 
-In *[Save the Cat! Writes a Novel](https://www.jessicabrody.com/books/non-fiction/save-cat-writes-novel/about/)*, Jessica Brody describes the ["Midpoint”](https://www.jessicabrody.com/wp-content/uploads/2020/01/Save_the_Cat_Writes_a_Novel_Starter_Kit_v6.pdf) of a story as its pivot point. Everything else hangs off this exciting, dynamic point as stakes are raised, pushing the hero toward their transformation.
+In *[Save the Cat! Writes a Novel](https://www.jessicabrody.com/books/non-fiction/save-cat-writes-novel/about/)*, Jessica Brody describes the [Midpoint](https://www.jessicabrody.com/wp-content/uploads/2020/01/Save_the_Cat_Writes_a_Novel_Starter_Kit_v6.pdf) of a story as its pivot point. Everything else hangs off this exciting, dynamic point as stakes are raised, pushing the hero toward their transformation.
 
 Similar pivots may be found in biographies or autobiographies as moments that changed everything for the subject or a decision taken to move in a new direction. 
 
