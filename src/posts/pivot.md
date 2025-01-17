@@ -42,7 +42,7 @@ January’s cited works included:
 - *[Jane Eyre](https://www.gutenberg.org/ebooks/1260)* by Charlotte Brontë
 - *[Microbiome: The Universe Inside You](https://www.waterstones.com/book/microbiome/helene-priestley-ph-d/david-rojas-mrquez-ph-d/9798887703961)* by Helene Priestley
 
-Our next meeting is on 11 February 2025 in the Parish Room, The Old School, Bottesford (next to library) at 8pm till around 9.30pm. 
+Our next meeting is on 11 February 2025 in the Parish Room, The Old School, Bottesford (next to the library) at 8pm till around 9.30pm. 
 
 
 Image: extract from *[The Raven and The Philosophy of Composition](https://www.gutenberg.org/ebooks/55749)* by Edgar Allan Poe
