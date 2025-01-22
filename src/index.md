@@ -48,7 +48,7 @@ We are a group of writers from all over the Vale of Belvoir and beyond. We meet 
 
 > ##### Meeting dates for 2025:
 >
-> - ~14 January 2025~
+> ~ - 14 January 2025 ~
 > - 11 February 2025
 > - 11 March 2025
 > - 8 April 2025
