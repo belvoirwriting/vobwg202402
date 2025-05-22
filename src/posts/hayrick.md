@@ -33,7 +33,7 @@ The imaginary Belvoir bibliography is growing. Recent cited works or, in other w
 
 On the craft of writing we heard about _Story Genius_ by Lisa Cron. She has a load of free resources at http://wiredforstory.com/free-resources. 
 
-And you can read the full version of Clare’s article "Face Value: Translating Divergence" on [_Words without Borders_](https://wordswithoutborders.org/read/article/2025-02/face-value-translating-divergence-clare-richards)
+And you can read the full version of Clare’s article "Face Value: Translating Divergence" on [_Words without Borders_](https://wordswithoutborders.org/read/article/2025-02/face-value-translating-divergence-clare-richards).
 
 We’ve had two bookshops open near us relatively recently. [The Reading Room](https://the-reading-room-grantham.square.site) is in Grantham, appropriately located inside the [George](https://www.granthamcivicsociety.co.uk/charles-dickens) where Charles Dickens stayed when it was a hotel and which he described as “one of the best inns in England” in [Nicholas Nickleby](https://standardebooks.org/ebooks/charles-dickens/nicholas-nickleby).
 
