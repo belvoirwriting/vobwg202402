@@ -31,11 +31,9 @@ The imaginary Belvoir bibliography is growing. Recent cited works or, in other w
 - [_There are Rivers in the Sky_](https://www.penguin.co.uk/books/316776/there-are-rivers-in-the-sky-by-shafak-elif/9780241988749) by Shafak Elif
 - [_Convenience Store Woman_](https://granta.com/products/convenience-store-woman) by Sayaka Murata translated by Ginny Tapley Takemori
 
-And on the craft of writing we heard about _Story Genius_ by Lisa Cron. She has a load of free resources at http://wiredforstory.com/free-resources. 
+On the craft of writing we heard about _Story Genius_ by Lisa Cron. She has a load of free resources at http://wiredforstory.com/free-resources. 
 
-
-You can read the full version of Clare’s article Face Value: Translating Divergence on [Words without Borders](https://wordswithoutborders.org/read/article/2025-02/face-value-translating-divergence-clare-richards)
-
+And you can read the full version of Clare’s article Face Value: Translating Divergence on [Words without Borders](https://wordswithoutborders.org/read/article/2025-02/face-value-translating-divergence-clare-richards)
 
 We’ve had two bookshops open near us relatively recently. [The Reading Room](https://the-reading-room-grantham.square.site) is in Grantham, appropriately located inside the [George](https://www.granthamcivicsociety.co.uk/charles-dickens) where Charles Dickens stayed when it was a hotel and described as “one of the best inns in England” in [Nicholas Nickleby](https://standardebooks.org/ebooks/charles-dickens/nicholas-nickleby).
 
@@ -49,5 +47,4 @@ I think there was a rational explanation for it all but it’s got be aliens rea
 
 And I’m blaming aliens for missing these updates over the last couple of months. 
 
-Image:
-<p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02/20176597928">The horse and the hayrick (c.1900)</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02">pellethepoet</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
+Image: <p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02/20176597928">The horse and the hayrick (c.1900)</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02">pellethepoet</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
