@@ -31,7 +31,7 @@ The imaginary Belvoir bibliography is growing. Recent cited works or, in other w
 - [There are Rivers in the Sky](https://www.penguin.co.uk/books/316776/there-are-rivers-in-the-sky-by-shafak-elif/9780241988749) by Shafak Elif
 - [Convenience Store Woman](https://granta.com/products/convenience-store-woman) by Sayaka Murata translated by Ginny Tapley Takemori
 
-And on the craft of writing we heard about Story Genius by Lisa Cron. She has a load of free http://wiredforstory.com/free-resources. 
+And on the craft of writing we heard about Story Genius by Lisa Cron. She has a load of free resources at http://wiredforstory.com/free-resources. 
 
 
 You can read the full version of Clare’s article Face Value: Translating Divergence on [Words without Borders](https://wordswithoutborders.org/read/article/2025-02/face-value-translating-divergence-clare-richards)
