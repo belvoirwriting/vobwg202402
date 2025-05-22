@@ -50,23 +50,4 @@ I think there was a rational explanation for it all but it’s got be aliens rea
 And I’m blaming aliens for missing these updates over the last couple of months. 
 
 Image:
-
-<attribution xmlns:dc="http://purl.org/dc/elements/1.1/">
-
-
-	<dc:creator>pellethepoet</dc:creator>
-
-
-	<dc:title>The horse and the hayrick (c.1900)</dc:title>
-
-
-	<dc:rights>https://creativecommons.org/licenses/by/2.0/</dc:rights>
-
-
-	<dc:identifier>https://www.flickr.com/photos/47201412@N02/20176597928</dc:identifier>
-
-
-	<dc:type>StillImage</dc:type>
-
-
-</attribution>
+<p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02/20176597928">The horse and the hayrick (c.1900)</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02">pellethepoet</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
