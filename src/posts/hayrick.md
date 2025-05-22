@@ -26,12 +26,12 @@ Alternatively, you could use one of the picture prompts from the other month. I 
 
 The imaginary Belvoir bibliography is growing. Recent cited works or, in other words, books that we discussed a bit include:
 
-- [The Eyre Affair](https://www.jasperfforde.com/subindex/tn1subindex.html) by Jasper Fforde
-- [The Goldfinch](https://www.pulitzer.org/winners/donna-tartt) by Donna Tart 
-- [There are Rivers in the Sky](https://www.penguin.co.uk/books/316776/there-are-rivers-in-the-sky-by-shafak-elif/9780241988749) by Shafak Elif
-- [Convenience Store Woman](https://granta.com/products/convenience-store-woman) by Sayaka Murata translated by Ginny Tapley Takemori
+- [_The Eyre Affair_](https://www.jasperfforde.com/subindex/tn1subindex.html) by Jasper Fforde
+- [_The Goldfinch_](https://www.pulitzer.org/winners/donna-tartt) by Donna Tart 
+- [_There are Rivers in the Sky_](https://www.penguin.co.uk/books/316776/there-are-rivers-in-the-sky-by-shafak-elif/9780241988749) by Shafak Elif
+- [_Convenience Store Woman_](https://granta.com/products/convenience-store-woman) by Sayaka Murata translated by Ginny Tapley Takemori
 
-And on the craft of writing we heard about Story Genius by Lisa Cron. She has a load of free resources at http://wiredforstory.com/free-resources. 
+And on the craft of writing we heard about _Story Genius_ by Lisa Cron. She has a load of free resources at http://wiredforstory.com/free-resources. 
 
 
 You can read the full version of Clare’s article Face Value: Translating Divergence on [Words without Borders](https://wordswithoutborders.org/read/article/2025-02/face-value-translating-divergence-clare-richards)
