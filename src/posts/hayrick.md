@@ -39,12 +39,7 @@ We’ve had two bookshops open near us relatively recently. [The Reading Room](h
 
 Over in Radcliffe-on-Trent you can find [One More Chapter](https://www.onemorechapter.shop). No idea if anyone notable did anything in that building at any point, but maybe one of us will get a blue plaque there one day. 
 
-Away from books we found out about the mysterious [Marfa Lights](https://www.cityofmarfa.com/visit/page/marfa-lights). It’s the number one thing to do in Marfa, Texas, even more popular than the dog park or art supplies shop, according to [Trip Advisor](https://www.tripadvisor.com/Attractions-g56230-Activities-Marfa_Texas.html).
-
-
-I think there was a rational explanation for it all but it’s got be aliens really, hasn’t it? 
-
+Away from books we found out about the mysterious [Marfa Lights](https://www.cityofmarfa.com/visit/page/marfa-lights). It’s the number one thing to do in Marfa, Texas, even more popular than the dog park or art supplies shop, according to [Trip Advisor](https://www.tripadvisor.com/Attractions-g56230-Activities-Marfa_Texas.html). I think there was a rational explanation for it all but it’s got be aliens really, hasn’t it? 
 
 And I’m blaming aliens for missing these updates over the last couple of months. 
-
-Image: <p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02/20176597928">The horse and the hayrick (c.1900)</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02">pellethepoet</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
+<p class="attribution">Image: "<a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02/20176597928">The horse and the hayrick (c.1900)</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/47201412@N02">pellethepoet</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
