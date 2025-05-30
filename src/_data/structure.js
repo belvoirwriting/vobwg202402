@@ -57,12 +57,12 @@ module.exports = {
 	 * if you want Facebook support you'll have to build it yourself.
 	 * https://deletefacebook.com/
 	 */
-	g_showSocialShareIcons: true,
+	g_showSocialShareIcons: false,
 	// Display individual Share Icons. Above must be 'true' for items below to display.
-	g_showShareLinkedIn: true,
-	g_showSharePinterest: true,
-	g_showShareReddit: true,
-	g_showShareTwitter: true,
+	g_showShareLinkedIn: false,
+	g_showSharePinterest: false,
+	g_showShareReddit: false,
+	g_showShareTwitter: false,
 	g_showShareEmail: true,
 
 	/**
