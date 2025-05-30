@@ -170,3 +170,6 @@ Harlaxton
 Sedgebrook
 
 Woolsthorpe by Belvoir
+
+### A note about cookies
+No cookies have been set for this site. We often link to other parts of the internet and those probably will have some cookies, so browse at your own peril. This site does not need cookies for any of its functions. Setting unnecessary cookies could be seen as intrusive. No cookies also means we don't have to use one of those pop-ups. Just think about how much time that has saved you. It's got to be at least half a dozen seconds and time enough for you to spend longer enjoying this sentence. 
