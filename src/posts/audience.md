@@ -17,7 +17,7 @@ tags:
   - themes
 ---
 
-I hope everyone that made it to the last meeting managed to get through the blockade on the A52 with a less eventful journey than the high-speed escape across Nazi-occupied Europe that we heard about. Though, if you were fleeing jackbooted fiends, I do hope you did it in style.
+If you drove back from the last meeting, I hope your journey through the blockade on the A52 was less eventful than what we heard about a high-speed escape across Nazi-occupied Europe. Though, if you were fleeing jackbooted fiends, I do hope you did it in style.
 
 We covered a lot including modern poetry and how hard you have to work to sound so effortless. Hollie McNish had another mention, which is an excuse to link again to this video of her poem [_Megatron_](https://youtu.be/qCO-YmLT8t4) (warning: swearing). We returned to soil types and that the answer to all your soil woes is, as always, plenty of organic matter. We also discovered plants with personality that may only grow how you want them to after years of pleading, but possibly only to baffle you. And we heard about a Eurovision epiphany, a rail replacement service of the damned, and moustache horror.  
 
