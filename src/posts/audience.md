@@ -1,6 +1,6 @@
 ---
 title: Audience
-date: 2025-05-14T11:15:03.000Z
+date: 2025-06-14T11:15:03.000Z
 author: tris
 excerpt: Updates and July 2025 meeting theme
 draft: 
