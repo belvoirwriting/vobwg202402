@@ -53,7 +53,7 @@ We are a group of writers from all over the Vale of Belvoir and beyond. We meet 
 > - ~~11 March 2025~~
 > - ~~8 April 2025~~
 > - ~~13 May 2025~~
-> - 10 June 2025
+> - ~~10 June 2025~~
 > - 8 July 2025
 > - 12 August 2025
 > - 9 September 2025
