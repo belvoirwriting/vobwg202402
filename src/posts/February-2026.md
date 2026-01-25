@@ -1,7 +1,7 @@
 ---
-title: "Cover" - February 2026 meeting theme
+title: Cover - February 2026 meeting
 date: 2026-01-25T12:00:00Z
-excerpt: We're back! And with a theme...
+excerpt: We're back
 author: tris
 draft: 
 seo:
