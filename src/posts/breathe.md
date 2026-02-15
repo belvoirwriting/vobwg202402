@@ -7,10 +7,10 @@ draft:
 seo:
   title:
   description:
-  image: /quill_hon.jpg
+  image: quill_hon.jpg
 images: # relative to /src/assets/images/
-  feature: /quill_hon.jpg
-  thumb: /quill_hon.jpg
+  feature: quill_hon.jpg
+  thumb: quill_hon.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: # optional. Default = h-48 md:h-1/3
 tags:
