@@ -19,10 +19,9 @@ I'm a writer and a poet originally from York, however I've spent much of my time
 
 *Dear Reader, stand fast upon the HMS Journey mast, and don’t you ever let go, this turbulent ship sets sail back and forth in time as we to and fro. Through the clouds across the fabled land of Sylamb into Harfleur, where the locals say bonjour, madame and monsieur.*
 
-**Remember to breathe, and there are wizards up this writers clubs sleeve**
-<br>by William John Mclaughlin
+**Remember to breathe, and there are wizards up this writers clubs sleeve**<br>
+by William John Mclaughlin
  
-
 Feathered quill, ink to spill from my blot pot with a juicy plot.
 
 Yet if this owl doesn’t fly the nest I’m afraid my brain may rot.
@@ -79,4 +78,4 @@ Time to slide away listening to Cosmic Dancer…
 
 “You’re tired William. Anyway, let’s get some fresh air or pub grub, oh how I love splashing and thrashing at your writers club.”
 
-<p class="attribution">Image: "<a rel="noopener noreferrer" href="https://www.flickr.com/photos/126269021@N07/22949530606">誰知道甚麼才是真 哪邊才是假 換個角度 一切也變得不一樣 . Credit to Quill Hon</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/126269021@N07">popopokokoko</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
+<p class="attribution">Image: "<a rel="noopener noreferrer" href="https://www.flickr.com/photos/126269021@N07/22949530606">誰知道甚麼才是真 哪邊才是假 換個角度 一切也變得不一樣 . Credit to Quill Hon</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/126269021@N07">popopokokoko</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a></p>
